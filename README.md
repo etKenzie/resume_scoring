@@ -358,4 +358,4 @@ Bearer tokens have become the standard for API authentication because they:
 
 For production applications, consider using JWT tokens which allow you to include expiration times and additional claims in the token itself.
 
-For more advanced authentication options, refer to the [FastAPI Security documentation](https://fastapi.tiangolo.com/tutorial/security/).
+For more advanced authentication options, refer to the [FastAPI Security documentation](https://fastapi.tiangolo.com/tutorial/security/).# resume_scoring
