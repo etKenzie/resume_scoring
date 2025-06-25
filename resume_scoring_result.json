@@ -4,76 +4,75 @@
     "skills_found": {
       "skills_found": [
         "Communication",
-        "Project Management",
-        "Leadership",
-        "Teamwork",
         "Sales & Lead Generation",
-        "Creativity"
+        "Creativity",
+        "Time Management",
+        "Operations Management"
       ],
       "total_skills_checked": 10,
-      "match_percentage": 0.6,
+      "match_percentage": 0.5,
       "skill_context": [
-        "Communication: Found in work experience as Bancassurance Life Consultant where communicating with bank staff was key.",
-        "Project Management: Implied in organizing and achieving sales targets in AIA Financial role.",
-        "Leadership: Demonstrated by role in Himpunan Mahasiswa Agroekoteknologi managing a division.",
-        "Teamwork: Worked collaboratively in teams as part of organizational roles and as a Community Development Partner.",
-        "Sales & Lead Generation: Directly involved in acquiring new customers and sales for insurance products.",
-        "Creativity: Mentioned in skills and demonstrated through innovative promotional activities."
+        "Communication: Found in work experience as Bancassurance Life Consultant",
+        "Sales & Lead Generation: Mentioned in responsibilities at PT AIA Financial",
+        "Creativity: Listed under skills and demonstrated in marketing roles",
+        "Time Management: Implicit in meeting monthly target increases",
+        "Operations Management: Found in Finance role managing office operations"
       ],
       "skill_score": 2.0
     },
     "experience_score": {
-      "experience_score": 3.8,
-      "years_experience": 5.25,
+      "experience_score": 4.0,
+      "years_experience": 5.0,
       "relevant_roles": [
         "Bancassurance Life Consultant",
         "Community Development Partner",
         "Community Officer"
       ],
-      "experience_breakdown": "**Years of Experience:** The candidate has 5.25 years (since May 2018) of relevant sales and customer relationship experience, exceeding the 1-year requirement. Score: +2.5 \n\n**Relevant Roles:** The candidate's roles such as 'Bancassurance Life Consultant', 'Community Development Partner', and 'Community Officer' are similar to the Sales Officer role, involving sales and customer engagement skills. Score: +0.8\n\n**Industry Alignment:** The candidate has experience in financial and customer-oriented roles, aligning with a Sales Officer position. Score: +0.5"
+      "experience_breakdown": "1. **Years of Experience**: 5 years of relevant experience in sales-related roles exceeding the required 1 year. (Score: +2.5 for significantly more experience)\n2. **Relevant Roles**: \n   - Bancassurance Life Consultant and Community Development Partner roles are related to sales (Score: +1.0 for similar roles in the same industry).\n   - Community Officer role involved customer acquisition and relations, supporting a sales function (Score: +0.5 for related roles in different industry).\n3. **Industry Alignment**: Experience primarily in financial services and community development which aligns well with sales (Score: +0.5 for related industry).\n\nTotal Score: 4.0 (Cap at 4.5 if exceeded)"
     },
     "education_score": {
-      "education_score": 0.5,
-      "degree_match": "Degree in Agroecotechnology is unrelated to job but meets minimum education requirement.",
+      "education_score": 0.6,
+      "degree_match": "Unrelated degree",
       "certifications": [],
-      "education_breakdown": "Base score: 0.0. Degree in Agroecotechnology (unrelated): +0.2. Meets minimum education requirement: +0.3. Total: 0.5"
+      "education_breakdown": "1. Degree obtained in Agroecotechnology does not directly relate to a Sales Officer position, therefore scoring as 'unrelated': +0.2.\n2. No certifications listed, contributing 0 points.\n3. Relevant qualifications include achievements such as First Place in Kumite, demonstrating competitive and target-oriented attributes, contributing +0.1.\n\nTotal score: 0.3 (degree) + 0 (certifications) + 0.1 (achievements) = 0.4, capped at 0.6 due to additional relevance beyond baseline academic achievement."
     },
     "scoring": {
-      "overall_score": 7.3,
+      "overall_score": 6.6,
       "skill_score": 2.0,
-      "experience_score": 3.8,
-      "education_score": 0.5,
+      "experience_score": 4.0,
+      "education_score": 0.6,
       "strengths": [
         "Strong sales experience",
         "Good communication skills",
-        "Leadership experience in student organizations",
-        "High adaptability and creativity"
+        "Ability to meet sales targets",
+        "Detail-oriented"
       ],
       "weaknesses": [
-        "Skills match not fully aligned with job needs",
-        "Limited project management experience"
+        "Limited technical skills",
+        "Narrow educational background for higher roles"
       ],
-      "breakdown": "The candidate received a skill score of 2.0, demonstrating that while they possess some relevant skills such as communication and creativity, their overall skills match is moderate. The experience score is 3.8, indicating robust experience in sales and community development, which aligns well with the demands of a Sales Officer role. Education scored 0.5, reflecting that while they possess the minimum educational requirement, it does not greatly enhance their profile. Additional factors were considered for their projects and achievements, which marginally added to their score, bringing the total to 7.3.",
-      "summary": "This candidate presents a good fit for the Sales Officer position with strong experience in sales and communication. However, there are some areas for growth, particularly in skills alignment and project management expertise."
+      "breakdown": "The candidate scores 2.0 out of 4.0 in skills, showcasing key skills in communication and sales - relevant for a sales officer role. The experience score is 4.0 out of 4.5, indicating strong and extensive experience in sales and finance roles, aligning well with job requirements. The education score is 0.6 out of 1.0 as the candidate meets the minimum qualification of high school education, but their degree in Agroecotechnology is unrelated to the job description. No additional projects or achievements directly relevant to the job were identified for bonus points.",
+      "summary": "The candidate is a good fit for the Sales Officer role, with strong and relevant experience in sales and proven ability to meet targets. While technical skills are limited, their sales and communication abilities are assets in this role. The education level meets the basic requirements though is not specialized for sales, but this is mitigated by their practical experience."
     },
     "evaluation": {
-      "reasoning": "Setelah meninjau hasil penilaian, tampaknya ada beberapa bagian yang memerlukan perhatian lebih. Pertama, skor keterampilan seperti 2.0 tampaknya cukup lemah mengingat beberapa keterampilan yang dinyatakan (komunikasi, kreativitas) memiliki relevansi moderat tetapi tidak secara langsung memenuhi kebutuhan peran sebagai Sales Officer. Persentase keterampilan yang ditemukan hanya 60%, menandakan ada celah besar dalam kompatibilitas keterampilan. \n\nSkor pengalaman dari 3.8 bisa dibilang tepat, karena kandidat memiliki pengalaman total 5,25 tahun, yang jauh melebihi persyaratan minimum satu tahun, dan peran yang dipegang sebelumnya cukup relevan dengan posisi Sales Officer. Namun, penilaian ini bisa terlalu dermawan jika dasar penilaian hanya pada pengalaman dan tidak sepenuhnya mencakup keterampilan khusus yang dicari. \n\nSkor pendidikan 0.5 masuk akal karena meskipun kandidat memenuhi persyaratan minimum, bidang studi mereka tidak terkait dengan peran yang dilamar. \n\nSecara keseluruhan, skor total 7.3 tampak agak tinggi, terutama mengingat bahwa ada kekurangan besar dalam kesesuaian keterampilan dan ketidakcocokan dalam latar belakang pendidikan.",
+      "reasoning": "**Evaluasi Bahasa Indonesia:**\n\n1. **Logika Pemberian Skor:**\n   - Skor keterampilan 2,0 dari 4,0 tidak tepat dengan tinjauan aktual. Persentase kecocokan keterampilan hanya 50%. Jumlah keterampilan terkait rendah dan tidak kuat untuk posisi Sales Officer. Skor harus lebih rendah.\n   - Skor pengalaman 4,0 dari 4,5 tampaknya terlalu tinggi. Meskipun ada 5 tahun pengalaman, posisi ini lebih sesuai dengan fungsi pengembangan komunitas dan bukan murni penjualan. Harus ada pengurangan untuk mencerminkan ketidakcocokan industri tertentu.\n   - Skor pendidikan 0,6 dari 1,0 tampaknya wajar mengingat pendidikan tidak relevan namun terdapat pencapaian lain yang mendukung.\n\n2. **Analisis Kesesuaian Pekerjaan:**\n   - Kompetensi inti yang hilang: Keterampilan teknis dan spesifikasi industri yang kurang. Sangat lemah untuk posisi penjualan dengan kriteria teknis.\n   - Persentase ketidakcocokan: Keterampilan spesifik (50%), Pengalaman industri (30%).\n\n3. **Penyesuaian Skor:**\n   - Skor keterampilan dikurangi menjadi 1,5 dari 2,0.\n   - Skor pengalaman dikurangi menjadi 3,5 dari 4,0.\n   - Total skor keseluruhan dikurangi dari 6,6 menjadi 5,6.\n\n4. **Kesimpulan Akhir:**\n   Kandidat memiliki pengalaman dan keterampilan komunikasi yang baik, namun terdapat ketidakmampuan dalam memenuhi keseluruhan kriteria posisi yang diinginkan. Tingkat pendidikan tidak mendukung tugas teknis atau spesifik industri untuk posisi Penjualan. Menunjukkan calon yang jenius dalam posisi berbasis komunitas tetapi bukan posisi yang benar-benar teknis atau berorientasi pada penjualan dalam lingkungan yang lebih besar.\n\nEvaluasi telah diperbaiki dengan mempertimbangkan ketidakcocokan yang signifikan dan memberikan penilaian yang lebih ketat sesuai persentase pencocokan yang teridentifikasi.",
       "score": {
-        "overall_score": 5.5,
-        "skill_score": 1.2,
-        "experience_score": 3.8,
-        "education_score": 0.5,
+        "overall_score": 5.6,
+        "skill_score": 1.5,
+        "experience_score": 3.5,
+        "education_score": 0.6,
         "strengths": [
-          "Pengalaman kuat dalam penjualan",
-          "Skill komunikasi yang baik",
-          "Kemampuan adaptasi dan kreativitas yang tinggi"
+          "Strong sales experience",
+          "Good communication skills",
+          "Ability to meet sales targets",
+          "Detail-oriented"
         ],
         "weaknesses": [
-          "Keselarasan keterampilan tidak sepenuhnya cocok dengan kebutuhan pekerjaan",
-          "Pengalaman manajemen proyek yang terbatas"
+          "Limited technical skills",
+          "Narrow educational background for higher roles"
         ],
-        "breakdown": "**Penyesuaian Skor:**\n- **Keterampilan:** Skor dikurangi menjadi 1.2 mengingat ketidakcocokan keterampilan yang signifikan dan persentase kecocokan keterampilan hanya 60%.\n- **Pengalaman:** Tetap di 3.8 karena pengalaman saling terkait yang kuat dengan peran yang dilamar.\n- **Pendidikan:** 0.5 tetap karena memenuhi syarat minimum tetapi pendidikan tidak relevan. Total skor keseluruhan disesuaikan menjadi 5.5 karena kesenjangan yang ada dalam keterampilan dan kecocokan latar belakang pendidikan.",
-        "summary": "Kandidat memiliki pengalaman yang kuat dalam penjualan tetapi perlu meningkatkan kesesuaian keterampilan dan memperoleh lebih banyak pengalaman dalam manajemen proyek. Ada kekurangan dalam latar belakang pendidikan yang relevan, dan oleh karena itu, keseluruhan kesesuaian hanya dinilai sebagai sedang."
+        "breakdown": "Skor diperbarui dengan pertimbangan ketidakcocokan keterampilan dan pengalaman dengan penuh ketelitian.",
+        "summary": "Kandidat memiliki pengalaman yang kuat dan kemampuan komunikasi yang baik untuk peran yang lebih berbasis komunitas atau administrasi, namun terbatas dalam keterampilan teknis untuk role penjualan yang lebih berbasis target teknis atau khusus industri."
       }
     }
   },
