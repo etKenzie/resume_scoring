@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: resume-scoring-api
+    env: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    dockerCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: MODEL_CHOICE
+        value: gpt-4-turbo-preview
+    healthCheckPath: /docs 

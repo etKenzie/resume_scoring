@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "data": {
+    "skills_found": {
+      "skills_found": [
+        "Communication",
+        "Project Management",
+        "Leadership",
+        "Teamwork",
+        "Sales & Lead Generation",
+        "Creativity"
+      ],
+      "total_skills_checked": 10,
+      "match_percentage": 0.6,
+      "skill_context": [
+        "Communication: Found in work experience as Bancassurance Life Consultant where communicating with bank staff was key.",
+        "Project Management: Implied in organizing and achieving sales targets in AIA Financial role.",
+        "Leadership: Demonstrated by role in Himpunan Mahasiswa Agroekoteknologi managing a division.",
+        "Teamwork: Worked collaboratively in teams as part of organizational roles and as a Community Development Partner.",
+        "Sales & Lead Generation: Directly involved in acquiring new customers and sales for insurance products.",
+        "Creativity: Mentioned in skills and demonstrated through innovative promotional activities."
+      ],
+      "skill_score": 2.0
+    },
+    "experience_score": {
+      "experience_score": 3.8,
+      "years_experience": 5.25,
+      "relevant_roles": [
+        "Bancassurance Life Consultant",
+        "Community Development Partner",
+        "Community Officer"
+      ],
+      "experience_breakdown": "**Years of Experience:** The candidate has 5.25 years (since May 2018) of relevant sales and customer relationship experience, exceeding the 1-year requirement. Score: +2.5 \n\n**Relevant Roles:** The candidate's roles such as 'Bancassurance Life Consultant', 'Community Development Partner', and 'Community Officer' are similar to the Sales Officer role, involving sales and customer engagement skills. Score: +0.8\n\n**Industry Alignment:** The candidate has experience in financial and customer-oriented roles, aligning with a Sales Officer position. Score: +0.5"
+    },
+    "education_score": {
+      "education_score": 0.5,
+      "degree_match": "Degree in Agroecotechnology is unrelated to job but meets minimum education requirement.",
+      "certifications": [],
+      "education_breakdown": "Base score: 0.0. Degree in Agroecotechnology (unrelated): +0.2. Meets minimum education requirement: +0.3. Total: 0.5"
+    },
+    "scoring": {
+      "overall_score": 7.3,
+      "skill_score": 2.0,
+      "experience_score": 3.8,
+      "education_score": 0.5,
+      "strengths": [
+        "Strong sales experience",
+        "Good communication skills",
+        "Leadership experience in student organizations",
+        "High adaptability and creativity"
+      ],
+      "weaknesses": [
+        "Skills match not fully aligned with job needs",
+        "Limited project management experience"
+      ],
+      "breakdown": "The candidate received a skill score of 2.0, demonstrating that while they possess some relevant skills such as communication and creativity, their overall skills match is moderate. The experience score is 3.8, indicating robust experience in sales and community development, which aligns well with the demands of a Sales Officer role. Education scored 0.5, reflecting that while they possess the minimum educational requirement, it does not greatly enhance their profile. Additional factors were considered for their projects and achievements, which marginally added to their score, bringing the total to 7.3.",
+      "summary": "This candidate presents a good fit for the Sales Officer position with strong experience in sales and communication. However, there are some areas for growth, particularly in skills alignment and project management expertise."
+    },
+    "evaluation": {
+      "reasoning": "Setelah meninjau hasil penilaian, tampaknya ada beberapa bagian yang memerlukan perhatian lebih. Pertama, skor keterampilan seperti 2.0 tampaknya cukup lemah mengingat beberapa keterampilan yang dinyatakan (komunikasi, kreativitas) memiliki relevansi moderat tetapi tidak secara langsung memenuhi kebutuhan peran sebagai Sales Officer. Persentase keterampilan yang ditemukan hanya 60%, menandakan ada celah besar dalam kompatibilitas keterampilan. \n\nSkor pengalaman dari 3.8 bisa dibilang tepat, karena kandidat memiliki pengalaman total 5,25 tahun, yang jauh melebihi persyaratan minimum satu tahun, dan peran yang dipegang sebelumnya cukup relevan dengan posisi Sales Officer. Namun, penilaian ini bisa terlalu dermawan jika dasar penilaian hanya pada pengalaman dan tidak sepenuhnya mencakup keterampilan khusus yang dicari. \n\nSkor pendidikan 0.5 masuk akal karena meskipun kandidat memenuhi persyaratan minimum, bidang studi mereka tidak terkait dengan peran yang dilamar. \n\nSecara keseluruhan, skor total 7.3 tampak agak tinggi, terutama mengingat bahwa ada kekurangan besar dalam kesesuaian keterampilan dan ketidakcocokan dalam latar belakang pendidikan.",
+      "score": {
+        "overall_score": 5.5,
+        "skill_score": 1.2,
+        "experience_score": 3.8,
+        "education_score": 0.5,
+        "strengths": [
+          "Pengalaman kuat dalam penjualan",
+          "Skill komunikasi yang baik",
+          "Kemampuan adaptasi dan kreativitas yang tinggi"
+        ],
+        "weaknesses": [
+          "Keselarasan keterampilan tidak sepenuhnya cocok dengan kebutuhan pekerjaan",
+          "Pengalaman manajemen proyek yang terbatas"
+        ],
+        "breakdown": "**Penyesuaian Skor:**\n- **Keterampilan:** Skor dikurangi menjadi 1.2 mengingat ketidakcocokan keterampilan yang signifikan dan persentase kecocokan keterampilan hanya 60%.\n- **Pengalaman:** Tetap di 3.8 karena pengalaman saling terkait yang kuat dengan peran yang dilamar.\n- **Pendidikan:** 0.5 tetap karena memenuhi syarat minimum tetapi pendidikan tidak relevan. Total skor keseluruhan disesuaikan menjadi 5.5 karena kesenjangan yang ada dalam keterampilan dan kecocokan latar belakang pendidikan.",
+        "summary": "Kandidat memiliki pengalaman yang kuat dalam penjualan tetapi perlu meningkatkan kesesuaian keterampilan dan memperoleh lebih banyak pengalaman dalam manajemen proyek. Ada kekurangan dalam latar belakang pendidikan yang relevan, dan oleh karena itu, keseluruhan kesesuaian hanya dinilai sebagai sedang."
+      }
+    }
+  },
+  "error": null,
+  "message": "Resume scored successfully"
+}
